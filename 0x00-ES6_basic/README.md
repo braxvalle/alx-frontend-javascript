@@ -1,0 +1,1 @@
+this is the basics of ES6 JS
